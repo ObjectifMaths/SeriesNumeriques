@@ -6,7 +6,7 @@ def Sommes(N=10**6):
 et 
 $\sum\limits_{n=1}^\infty \frac{\cos n}{n}$
 
-dont les sommes sont en théorie respectivement égales à $\frac{\pi-1}{2}$ et $-\ln\left(2\sin \frac 12\right) ?? 
+dont les sommes sont en théorie respectivement égales à $\frac{\pi-1}{2}$ et $-\ln\left(2\sin \frac 12\right)$ 
 
 """
     S=C=0
